@@ -12,13 +12,13 @@ Let's Move is an incentive program to learn Move and earn SUI, encouraging more 
 - Upon task approval, the Sui will be transferred to the Sui address provided in `readme.md`
 
 ## Reward details
-| Task                              |  Name | Equivalent SUI in RMB | Description                     |
-|:-------------------------------|-------|:------------------:|:-------------------------|
-| [task 1](task/01.hello_move.md) | hello move |   ¥30    | Complete the first contract deployment on-chain            |
-| [task 2 ](task/02.move_coin.md) |  move coin |   ¥20    | Learn the Coin protocol and publish two Coins on-chain |
-| [task 3](task/03.move_nft.md)   |   move nft |   ¥20    | Learn NFT and publish NFT on-chain       |
-| [task 4](task/04.move_game.md)  |  move game |   ¥30    | Learn the chain game and interact on-chain          |
-| [task 5](task/05.move_swap.md)  |  move swap |   ¥50    | Learn Swap and interact on-chain          |
+| Task                              |  Name | Equivalent SUI in USD | Description                                            |
+|:-------------------------------|-------|:---------------------:|:-------------------------------------------------------|
+| [task 1](task/01.hello_move.md) | hello move |          $4           | Complete the first contract deployment on-chain        |
+| [task 2 ](task/02.move_coin.md) |  move coin |          $3           | Learn the Coin protocol and publish two Coins on-chain |
+| [task 3](task/03.move_nft.md)   |   move nft |          $3           | Learn NFT and publish NFT on-chain                     |
+| [task 4](task/04.move_game.md)  |  move game |          $4           | Learn the chain game and publish  on-chain             |
+| [task 5](task/05.move_swap.md)  |  move swap |          $7           | Learn Swap and publish on-chain                        |
 
 ## Community & Q&A
 - [move Chinese TG](https://t.me/move_cn) [Sui Chinese TG](https://t.me/sui_dev_cn)
